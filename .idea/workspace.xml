@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21b7fe8f-598e-4b7a-9db8-a02f4054427f" name="Changes" comment="Proyecto codigo limpio inicio">
-      <change beforePath="$PROJECT_DIR$/codigo limpio/Trabajo1_Refactorización/Equipo1_yagni_V1_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/codigo limpio/Trabajo1_Refactorización/Equipo1_yagni_V1_0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codigo limpio/Trabajo2_Revision/Equipo2_legibilidad_V1_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/codigo limpio/Trabajo2_Revision/Equipo2_legibilidad_V1_0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codigo limpio/Trabajo3_Nombres/Equipo3_nombres_descriptivos_V1_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/codigo limpio/Trabajo3_Nombres/Equipo3_nombres_descriptivos_V1_0.py" afterDir="false" />
+    <list default="true" id="21b7fe8f-598e-4b7a-9db8-a02f4054427f" name="Changes" comment="Proyecto se coloco el codigo no limpio">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,12 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725927330634</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Proyecto se coloco el codigo no limpio">
+      <option name="closed" value="true" />
+      <created>1725927733027</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725927733027</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto codigo limpio inicio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto codigo limpio inicio" />
+    <MESSAGE value="Proyecto se coloco el codigo no limpio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto se coloco el codigo no limpio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
