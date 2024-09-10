@@ -12,7 +12,7 @@ class Calculadora:
         """
         if Operando2 == 0:
             if Operando1 == 0:
-                raise ValorError("No se puede dividir por cero cuando el primer operando es cero.")
+                raise ZeroDivisionError("No se puede dividir por cero cuando el primer operando es cero.")
             return Operando1 / Operando2
         else:
             return Operando1 * Operando2

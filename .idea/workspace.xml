@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21b7fe8f-598e-4b7a-9db8-a02f4054427f" name="Changes" comment="Proyecto se actialización Pruebas unitarias" />
+    <list default="true" id="21b7fe8f-598e-4b7a-9db8-a02f4054427f" name="Changes" comment="Proyecto se actialización Pruebas unitarias">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codigo limpio/Trabajo2_Revision/Equipo7_Legibilidad_V1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/codigo limpio/Trabajo2_Revision/Equipo7_Legibilidad_V1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codigo limpio/Trabajo2_Revision/PruebaUnitaria.py" beforeDir="false" afterPath="$PROJECT_DIR$/codigo limpio/Trabajo2_Revision/PruebaUnitaria.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +24,23 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="equipo2_legibilidad" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PieroMSL"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PieroMSL/CodigoLimpioGrupo7.git",
+    "accountId": "d93d86f6-02ba-48ab-a8fb-da36f13e24fc"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -36,46 +52,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Equipo1_yagni_V1_0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Equipo2_legibilidad_V1_0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PruebaUnitaria.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;equipo2__legibilidad&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ProyectoPMS04/pythonProject1/codigo limpio/Trabajo1_Refactorización&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Equipo1_yagni_V1_0.executor": "Run",
+    "Python.Equipo2_legibilidad_V1_0.executor": "Run",
+    "Python.PruebaUnitaria.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Trabajos Construccion de Software/Tarea Semana 04/CodigoLimpioGrupo7",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ProyectoPMS04\pythonProject1\codigo limpio\Trabajo1_Refactorización" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="PruebaUnitaria" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codigo limpio/Trabajo2_Revision" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codigo limpio/Trabajo2_Revision/PruebaUnitaria.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -103,7 +100,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
@@ -175,6 +173,9 @@
     <option name="localTasksCounter" value="8" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto codigo limpio inicio" />
     <MESSAGE value="Proyecto se coloco el codigo no limpio" />
@@ -184,5 +185,8 @@
     <MESSAGE value="Proyecto se actialización mejora de legibilidad" />
     <MESSAGE value="Proyecto se actialización Pruebas unitarias" />
     <option name="LAST_COMMIT_MESSAGE" value="Proyecto se actialización Pruebas unitarias" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodigoLimpioGrupo7$PruebaUnitaria.coverage" NAME="PruebaUnitaria Coverage Results" MODIFIED="1725995243930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codigo limpio/Trabajo2_Revision" />
   </component>
 </project>

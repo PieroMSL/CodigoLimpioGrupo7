@@ -14,7 +14,7 @@ class TestCalculadora(unittest.TestCase):
         self.assertEqual(resultado, 5)
 
     def test_division_en_cero(self):
-        with self.assertRaises(ValorError):
+        with self.assertRaises(ZeroDivisionError):
             self.calculadora.calculo(10,0)
 
 if __name__ == '__main__':
