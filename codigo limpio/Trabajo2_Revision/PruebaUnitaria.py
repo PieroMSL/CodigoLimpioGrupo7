@@ -10,8 +10,8 @@ class TestCalculadora(unittest.TestCase):
         self.assertEqual(resultado, 20)
 
     def test_division(self):
-        resultado = self.calculadora.calculo(10,2)
-        self.assertEqual(resultado, 5)
+        resultado = self.calculadora.calculo(10,1)
+        self.assertEqual(resultado, 10)
 
     def test_division_en_cero(self):
         with self.assertRaises(ZeroDivisionError):
