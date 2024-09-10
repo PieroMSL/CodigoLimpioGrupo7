@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21b7fe8f-598e-4b7a-9db8-a02f4054427f" name="Changes" comment="Proyecto se coloco el codigo no limpio">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="21b7fe8f-598e-4b7a-9db8-a02f4054427f" name="Changes" comment="Proyecto se elimino los trabajos que no se usaran y el main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Equipo1_yagni_V1_0.executor": "Run",
+    "Python.Equipo2_legibilidad_V1_0.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -103,23 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725927733027</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Proyecto se elimino los trabajos que no se usaran y el main">
+      <option name="closed" value="true" />
+      <created>1725929269837</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725929269837</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto codigo limpio inicio" />
     <MESSAGE value="Proyecto se coloco el codigo no limpio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto se coloco el codigo no limpio" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Proyecto se elimino los trabajos que no se usaran y el main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto se elimino los trabajos que no se usaran y el main" />
   </component>
 </project>
