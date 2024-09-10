@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21b7fe8f-598e-4b7a-9db8-a02f4054427f" name="Changes" comment="Proyecto se elimino los trabajos que no se usaran y el main" />
+    <list default="true" id="21b7fe8f-598e-4b7a-9db8-a02f4054427f" name="Changes" comment="Proyecto se actializaron nombres">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -37,7 +44,7 @@
     "Python.Equipo2_legibilidad_V1_0.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "equipo2__legibilidad",
     "last_opened_file_path": "D:/ProyectoPMS04/pythonProject1/codigo limpio/Trabajo1_Refactorización"
   }
 }]]></component>
@@ -110,13 +117,22 @@
       <option name="project" value="LOCAL" />
       <updated>1725929269837</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Proyecto se actializaron nombres">
+      <option name="closed" value="true" />
+      <created>1725929537124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725929537124</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto codigo limpio inicio" />
     <MESSAGE value="Proyecto se coloco el codigo no limpio" />
     <MESSAGE value="Proyecto se elimino los trabajos que no se usaran y el main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto se elimino los trabajos que no se usaran y el main" />
+    <MESSAGE value="Proyecto se actializaron nombres" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto se actializaron nombres" />
   </component>
 </project>
