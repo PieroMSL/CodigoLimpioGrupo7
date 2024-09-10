@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21b7fe8f-598e-4b7a-9db8-a02f4054427f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codigo limpio/Trabajo1_Refactorización/Equipo1_yagni_v1_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codigo limpio/Trabajo5_Mini_POO/Equipo5_poo_V1_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="21b7fe8f-598e-4b7a-9db8-a02f4054427f" name="Changes" comment="Proyecto codigo limpio inicio">
+      <change beforePath="$PROJECT_DIR$/codigo limpio/Trabajo1_Refactorización/Equipo1_yagni_V1_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/codigo limpio/Trabajo1_Refactorización/Equipo1_yagni_V1_0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codigo limpio/Trabajo2_Revision/Equipo2_legibilidad_V1_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/codigo limpio/Trabajo2_Revision/Equipo2_legibilidad_V1_0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codigo limpio/Trabajo3_Nombres/Equipo3_nombres_descriptivos_V1_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/codigo limpio/Trabajo3_Nombres/Equipo3_nombres_descriptivos_V1_0.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Equipo1_yagni_V1_0.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -94,7 +89,20 @@
       <option name="presentableId" value="Default" />
       <updated>1725926587684</updated>
     </task>
+    <task id="LOCAL-00001" summary="Proyecto codigo limpio inicio">
+      <option name="closed" value="true" />
+      <created>1725927330634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725927330634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyecto codigo limpio inicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto codigo limpio inicio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
